@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /*box-sizing - Ajuda a trabalhar com larguras, alturas dos elementos de uma meneira mais fácil no CSS*/
+}
+
+ul {
+    list-style: none;
+    /*Tira o estilo da lista*/
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+/* reset usado para resetar as configurações da página, para melhor aplicar seu estilo*/
